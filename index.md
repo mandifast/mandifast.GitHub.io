@@ -1,5 +1,5 @@
 # Welcome to My Portfolio
-[<img src="images/Orange and Yellow Modern Playful Sushi Making Guide LinkedIn Article Cover Image .png?raw=true"/>]
+[<img src="images/Grey Minimalist Modern Social Media Specialist LinkedIn Banner.jpgpng?raw=true"/>]
 ---
 
 ### Learn About My Projects
