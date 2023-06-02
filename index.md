@@ -1,5 +1,5 @@
 # Welcome to My Portfolio
-
+[<img src="images/Orange and Yellow Modern Playful Sushi Making Guide LinkedIn Article Cover Image .png?raw=true"/>]
 ---
 
 ### Learn About My Projects
