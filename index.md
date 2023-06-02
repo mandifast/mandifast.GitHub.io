@@ -1,6 +1,5 @@
 # Welcome to My Portfolio
 <img src="images/Grey Minimalist Modern Social Media Specialist LinkedIn Banner.jpg?raw=true"/>
----
 
 ### Learn About My Projects
 ---
