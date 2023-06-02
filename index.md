@@ -4,9 +4,9 @@
 
 ### Learn About My Projects
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/doordash-sales-insights-excel-mandi-fast/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/doordash-sales-insights-excel-mandi-fast/)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+#### (https://www.linkedin.com/pulse/doordash-sales-insights-excel-mandi-fast/)
+[<img src="images/Orange and Yellow Modern Playful Sushi Making Guide LinkedIn Article Cover Image .png?raw=true"/>](https://www.linkedin.com/pulse/doordash-sales-insights-excel-mandi-fast/)
+My final write up for my personal marketing data project covering a company within the food delivery industry. 
 
 
 ---
