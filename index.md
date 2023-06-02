@@ -4,7 +4,7 @@
 
 ### Learn About My Projects
 ---
-#### (https://www.linkedin.com/pulse/doordash-sales-insights-excel-mandi-fast/)
+  #### [Marketing Exel Project](https://www.linkedin.com/pulse/doordash-sales-insights-excel-mandi-fast/)
 [<img src="images/Orange and Yellow Modern Playful Sushi Making Guide LinkedIn Article Cover Image .png?raw=true"/>](https://www.linkedin.com/pulse/doordash-sales-insights-excel-mandi-fast/)
 My final write up for my personal marketing data project covering a company within the food delivery industry. 
 
